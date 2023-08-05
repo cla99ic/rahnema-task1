@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "esModuleInterop": true,
+        "target": "es6",
+        "lib": ["ES2020"],
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "dist",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strict": true
+    },
+    "lib": ["es2015"]
+}
